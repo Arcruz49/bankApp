@@ -2,11 +2,11 @@ using System;
 using System.Collections.Generic;
 
 namespace BancoApp;
-class .ç : Pessoa {
-    private string cpf {get; set;}
+class PessoaJuridica : Pessoa {
+    private string cnpj {get; set;}
 
-    protected PessoaFisica(string nome, int idade, string cpf) : base(nome, idade){
-        this.cpf = cpf;
+    protected PessoaJuridica(string nome, int idade, string cnpj) : base(nome, idade){
+        this.cnpj = cnpj;
     }
 
     public override string ExibirDetalhes(){

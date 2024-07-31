@@ -1,0 +1,14 @@
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\bin\Debug\net8.0\bankApp.exe
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\bin\Debug\net8.0\bankApp.deps.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\bin\Debug\net8.0\bankApp.runtimeconfig.json
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\bin\Debug\net8.0\bankApp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\bin\Debug\net8.0\bankApp.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.AssemblyInfoInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.AssemblyInfo.cs
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.csproj.CoreCompileInputs.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\refint\bankApp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.pdb
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.genruntimeconfig.cache
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\ref\bankApp.dll
