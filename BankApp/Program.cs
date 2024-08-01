@@ -5,12 +5,17 @@ namespace BancoApp;
 class Program {
     static void Main(string[] args) {
         
-        int key = 0;
+        int input = -1;
         Util util = new Util();
-        while(key != -1){
-            Console.WriteLine("" + key);
-            string input = Console.ReadLine();
-            util.start();
+        string name = util.start();
+        Bank banco = new Bank(name);
+
+        Console.WriteLine(util.menu());
+
+        while(input != 0){
+            
+
+
         }
 
 

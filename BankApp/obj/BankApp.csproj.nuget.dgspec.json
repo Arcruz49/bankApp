@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\bankApp\\bankApp\\bankApp.csproj": {}
+    "C:\\Users\\Arthur\\Desktop\\bankApp\\bankApp\\bankApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\bankApp\\bankApp\\bankApp.csproj": {
+    "C:\\Users\\Arthur\\Desktop\\bankApp\\bankApp\\bankApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\bankApp\\bankApp\\bankApp.csproj",
+        "projectUniqueName": "C:\\Users\\Arthur\\Desktop\\bankApp\\bankApp\\bankApp.csproj",
         "projectName": "bankApp",
-        "projectPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\bankApp\\bankApp\\bankApp.csproj",
-        "packagesPath": "C:\\Users\\Arthur Cruz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Arthur Cruz\\Documents\\projetos pessoais\\bankApp\\bankApp\\obj\\",
+        "projectPath": "C:\\Users\\Arthur\\Desktop\\bankApp\\bankApp\\bankApp.csproj",
+        "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arthur\\Desktop\\bankApp\\bankApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arthur Cruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Arthur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -38,11 +39,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -64,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
