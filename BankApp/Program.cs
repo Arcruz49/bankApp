@@ -10,10 +10,32 @@ class Program {
         string name = util.start();
         Bank banco = new Bank(name);
 
-        Console.WriteLine(util.menu());
+        string? stringInput = "";
 
         while(input != 0){
             
+            Console.WriteLine(util.menu());
+            stringInput = Console.ReadLine();
+            if(util.verificaNumero(stringInput).sucesso){
+                input = Convert.ToInt32(stringInput);
+                Console.Clear();
+                switch(input){
+                    case 0:
+                        break;
+                    
+                    case 1:
+                        Console.WriteLine(banco.getDetalhes());
+                        break;
+                    
+                    case 2:
+                        Console.WriteLine();
+                        break;
+                    
+                }
+
+
+            }
+        
 
 
         }

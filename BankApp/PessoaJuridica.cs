@@ -5,7 +5,7 @@ namespace BancoApp;
 class PessoaJuridica : Pessoa {
     private string cnpj {get; set;}
 
-    protected PessoaJuridica(string nome, int idade, string cnpj) : base(nome, idade){
+    public PessoaJuridica(string nome, int idade, string cnpj) : base(nome, idade){
         this.cnpj = cnpj;
     }
 

@@ -15,4 +15,9 @@ class Bank {
     public string getName(){
         return this.name;
     }
+
+    public string getDetalhes(){
+        return "Nome: " + this.getName() + "\n" +
+            "Número de contas: " + this.contas.Count();
+    }
 }

@@ -27,3 +27,4 @@ C:\Users\Arthur\Desktop\bankApp\bankApp\obj\Debug\net8.0\refint\bankApp.dll
 C:\Users\Arthur\Desktop\bankApp\bankApp\obj\Debug\net8.0\bankApp.pdb
 C:\Users\Arthur\Desktop\bankApp\bankApp\obj\Debug\net8.0\bankApp.genruntimeconfig.cache
 C:\Users\Arthur\Desktop\bankApp\bankApp\obj\Debug\net8.0\ref\bankApp.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\bankApp\bankApp\obj\Debug\net8.0\bankApp.sourcelink.json
