@@ -8,11 +8,11 @@ namespace BancoApp;
 class ContaBancaria{
     private PessoaFisica? responsavelPF {get; set;}
 
-    private PessoaFisica? responsavelPJ {get; set;}
+    private PessoaJuridica? responsavelPJ {get; set;}
 
     private double saldo {get; set;}
 
-    public ContaBancaria(PessoaFisica? responsavelPF, PessoaFisica? responsavelPJ, double saldo = 0){
+    public ContaBancaria(PessoaFisica? responsavelPF, PessoaJuridica? responsavelPJ, double saldo = 0){
         try{
 
             if(responsavelPF == null && responsavelPJ == null){
